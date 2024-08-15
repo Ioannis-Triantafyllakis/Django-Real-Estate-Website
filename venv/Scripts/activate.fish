@@ -58,7 +58,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'C:\Users\user\Dropbox\My PC (DESKTOP-FQ14F0C)\Desktop\btre_resources\venv'
+set -gx VIRTUAL_ENV 'C:\Users\user\Dropbox\My PC (DESKTOP-FQ14F0C)\Desktop\BT-Django-Real-Estate-Website\venv'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3

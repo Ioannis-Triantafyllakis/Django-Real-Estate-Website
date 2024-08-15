@@ -6,7 +6,7 @@
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-@set "VIRTUAL_ENV=C:\Users\user\Dropbox\My PC (DESKTOP-FQ14F0C)\Desktop\btre_resources\venv"
+@set "VIRTUAL_ENV=C:\Users\user\Dropbox\My PC (DESKTOP-FQ14F0C)\Desktop\BT-Django-Real-Estate-Website\venv"
 
 @set "VIRTUAL_ENV_PROMPT="
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (
